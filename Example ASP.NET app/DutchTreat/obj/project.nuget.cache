@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RZrfaij4znrcq7B+pjw3ag2tVFlW2EjNKvagYjbpduh4keA4RWxjq4j1O120QJVOB4GeLL7wtBo0TFOGpklgeQ==",
+  "dgSpecHash": "Hu2SGxBH9CSiRbqQG7f6GpQidPswSy2pK1yxr1mEIYWv7l0vNUiytfcUeXNaEd9sRBg7cVwx1sg27TG3SpcFXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bhitt\\Desktop\\Example ASP.NET app\\DutchTreat\\DutchTreat.csproj",
+  "projectFilePath": "C:\\Users\\bhitt\\Desktop\\ASP.NET-MVC-Angular\\Example ASP.NET app\\DutchTreat\\DutchTreat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bhitt\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\bhitt\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

@@ -6278,11 +6278,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bhitt\\Desktop\\Example ASP.NET app\\DutchTreat\\DutchTreat.csproj",
+      "projectUniqueName": "C:\\Users\\bhitt\\Desktop\\ASP.NET-MVC-Angular\\Example ASP.NET app\\DutchTreat\\DutchTreat.csproj",
       "projectName": "DutchTreat",
-      "projectPath": "C:\\Users\\bhitt\\Desktop\\Example ASP.NET app\\DutchTreat\\DutchTreat.csproj",
+      "projectPath": "C:\\Users\\bhitt\\Desktop\\ASP.NET-MVC-Angular\\Example ASP.NET app\\DutchTreat\\DutchTreat.csproj",
       "packagesPath": "C:\\Users\\bhitt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bhitt\\Desktop\\Example ASP.NET app\\DutchTreat\\obj\\",
+      "outputPath": "C:\\Users\\bhitt\\Desktop\\ASP.NET-MVC-Angular\\Example ASP.NET app\\DutchTreat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
